@@ -9,12 +9,12 @@ flarum-markdown:
 
     # These translations are used by the composer (emoji autocompletion function).
     composer:
-      bold_tooltip: Add bold text
-      code_tooltip: Insert code
-      header_tooltip: Add header text
+      bold_tooltip: افزودن متن ضخیم
+      code_tooltip: درج کد
+      header_tooltip: افزودن سرآیند
       image_tooltip: Add an image
-      italic_tooltip: Add italic text
-      link_tooltip: Add a link
-      ordered_list_tooltip: Add a numbered list
-      quote_tooltip: Insert a quote
-      unordered_list_tooltip: Add a bulleted list
+      italic_tooltip: افزودن متن ایتالیک
+      link_tooltip: افزودن پیوند
+      ordered_list_tooltip: افزودن لیست عددی
+      quote_tooltip: درج نقل‌قول
+      unordered_list_tooltip: افزودن لیست
