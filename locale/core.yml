@@ -606,6 +606,7 @@ core:
     start_a_discussion: شروع بحث جدید
     username: نام کاربری
     users: کاربران                                 # Referenced by flarum-statistics.yml
+    view: نمایش
     write_a_reply: پاسخ شما...
     you: شما                                     # Referenced by flarum-likes.yml, flarum-mentions.yml
     
