@@ -11,5 +11,5 @@ This language pack is bundled with [Flarum](http://flarum.org/).
 دستور زیر را در اس اس اچ بزنید:
 
 ```bash
-composer require masterking32/flarum-lang-persian
+composer require masterking32/flarum-lang-persian:0.1.0-beta.14
 ```
