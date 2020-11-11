@@ -52,13 +52,13 @@ flarum-subscriptions:
 
     # These translations are used in emails sent when a post is made in a subscribed discussion
     new_post:
-      subject: "[New Post] {title}"
+      subject: "[پست جدید] {title}"
       body: |
-        Hey {recipient_display_name}!
+        سلام {recipient_display_name}!
 
-        {poster_display_name} made a post in a discussion you're following: {title}.
+        {poster_display_name} یک پست جدید در مبحثی که شما دنبال میکنید ارسال کرد: {title}.
 
-        To view the new activity, check out the following link:
+        برای دیدن آن، روی لینک کلیک کنید:
         {url}
 
         ---
@@ -67,7 +67,7 @@ flarum-subscriptions:
 
         ---
 
-        You won't receive any more notifications about this discussion until you're up-to-date.
+        شما پیام دیگری راجع به این موضوع دریافت نخواهید کرد تا زمانی که به روز باشید.
 
   ##
   # REUSED TRANSLATIONS - These keys should not be used directly in code!

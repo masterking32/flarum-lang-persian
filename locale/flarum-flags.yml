@@ -9,14 +9,14 @@ flarum-flags:
 
     # These translations are used in the Permissions page of the admin interface.
     permissions:
-      flag_posts_label: Flag posts
-      view_flags_label: View flagged posts
+      flag_posts_label: پست با فلگ
+      view_flags_label: پست های فلگ شده
 
     # These translations are used in the Flags Settings modal dialog.
     settings:
-      flag_own_posts_label: Allow users to flag their own posts
-      guidelines_url_label: Community Guidelines URL
-      title: Flags Settings
+      flag_own_posts_label: اجازه دادن به کاربران برای فلگ کردن پست خود
+      guidelines_url_label: آدرس قوانین انجمن
+      title: تنظیمات فلگ
 
   # Translations in this namespace are used by the forum user interface.
   forum:
@@ -25,13 +25,13 @@ flarum-flags:
     flag_post:
       confirmation_message: با تشکر از علامت زدن این پست. مدیران انجمن به‌زودی این مورد را بررسی می‌کند.
       dismiss_button: => core.ref.okay
-      reason_details_placeholder: Additional details (optional)
+      reason_details_placeholder: اطلاعات تکمیلی (اختیاری)
       reason_inappropriate_label: نامناسب
       reason_inappropriate_text: "این نوشته توهین‌آمیز. زشت و نامناسب است و یا <a>مقررات انجمن</a> را نقض می‌کند."
-      reason_missing_message: Please provide some details for our moderators.
+      reason_missing_message: لطفا برای مدیران اطلاعات مورد نیاز را تکمیل کنید.
       reason_off_topic_label: "خارج از موضوع"
       reason_off_topic_text: این نوشته مرتبط با این مبحث نیست و باید به‌جایی دیگر منتقل شود.
-      reason_other_label: Other (please specify)
+      reason_other_label: غیره (لطفا مشخص کنید)
       reason_spam_label: هرزنامه
       reason_spam_text: این یک نوشته تبلیغاتی است.
       submit_button: => flarum-flags.ref.flag_post

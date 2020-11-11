@@ -9,12 +9,12 @@ flarum-statistics:
 
     # These translations are used in the Statistics dashboard widget.
     statistics:
-      active_users_text: "{count} active"
+      active_users_text: "{count} فعال"
       discussions_heading: => core.ref.discussions
-      last_12_months_label: Last 12 months
-      last_28_days_label: Last 28 days
-      last_7_days_label: Last 7 days
+      last_12_months_label: 12 ماه اخیر
+      last_28_days_label: 28 روز گذشته
+      last_7_days_label: 7 روز گذشته
       posts_heading: => core.ref.posts
-      today_label: Today
-      total_label: Total
+      today_label: امروز
+      total_label: در کل
       users_heading: => core.ref.users
