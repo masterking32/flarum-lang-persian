@@ -1,7 +1,7 @@
 {
     "name": "masterking32/flarum-lang-persian",
     "type": "flarum-extension",
-    "description": "Persian language pack.",
+    "description": "Persian language pack for Flarum.",
     "keywords": ["locale", "Persian", "Farsi", "Irani", "Flarum Farsi"],
     "license": "MIT",
     "require": {
