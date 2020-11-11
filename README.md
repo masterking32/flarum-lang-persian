@@ -1,9 +1,15 @@
-# English Language Pack for Flarum
+# Persian Language Pack for Flarum | افزونه زبانه فارسی برای فلاروم
 
-## Installation
+## Installation | روش نصب
 
 This language pack is bundled with [Flarum](http://flarum.org/).
 
-## Translating Flarum
+این فارسی ساز مخصوص [Flarum](http://flarum.org/) می باشد.
 
-Because Flarum is at an early development stage, instructions to translate it are currently unavailable. Please check [our documentation](http://flarum.org/docs/translate/) when it will be written.
+---
+
+دستور زیر را در اس اس اچ بزنید:
+
+```bash
+composer require masterking32/flarum-lang-persian
+```
