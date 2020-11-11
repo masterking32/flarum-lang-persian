@@ -4,7 +4,7 @@
 
 This language pack is bundled with [Flarum](http://flarum.org/).
 
-این فارسی ساز مخصوص [Flarum](http://flarum.org/) می باشد.
+این فارسی ساز مخصوص [فلاروم](http://flarum.org/) می باشد.
 
 ---
 
