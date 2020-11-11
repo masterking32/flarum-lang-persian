@@ -2,10 +2,28 @@
     "name": "masterking32/flarum-lang-persian",
     "type": "flarum-extension",
     "description": "Persian language pack.",
-    "keywords": ["locale"],
+    "keywords": ["locale", "Persian", "Farsi", "Irani", "Flarum Farsi"],
     "license": "MIT",
     "require": {
         "flarum/core": "^0.1.0-beta.14"
+    },
+    "authors": [
+        {
+            "name": "MasterkinG32",
+            "email": "lichwow_masterking@yahoo.com"
+        },
+        {
+            "name": "AmirhN",
+            "email": "amirhn6754@gmail.com"
+        },
+        {
+            "name": "Sajjad Hashemian",
+            "email": "wolaws@gmail.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/masterking32/flarum-lang-persian/issues",
+        "source": "https://github.com/masterking32/flarum-lang-persian"
     },
     "extra": {
         "branch-alias": {
