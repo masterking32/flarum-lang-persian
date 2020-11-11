@@ -26,9 +26,6 @@
         "source": "https://github.com/masterking32/flarum-lang-persian"
     },
     "extra": {
-        "branch-alias": {
-            "dev-master": "master"
-        },
         "flarum-extension": {
             "title": "Persian",
             "icon": {
