@@ -583,7 +583,7 @@ core:
     edit: ویرایش
     email: رایانامه
     icon: آیکون
-    icon_text: "Enter the name of any <a>FontAwesome</a> icon class, <em>including</em> the <code>fas fa-</code> prefix."
+    icon_text: "نام یک آیکون از <a>FontAwesome</a> را وارد کنید, <em>شامل شده باشد با</em> پسوند <code>fas fa-</code>"
     load_more: بیشتر
     log_in: ورود
     log_out: خروج
